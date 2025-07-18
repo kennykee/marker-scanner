@@ -6,6 +6,8 @@ This is the detection engine powering the **Ahmad Ibrahim Primary School AR Scie
 
 The app transforms passive printed environmental displays into engaging learning tools. By scanning AR markers embedded in the wall, users instantly receive relevant educational content on their devices, deepening their understanding of topics like sustainability and environmental systems.
 
+Visit [SchoolApp.sg](https://schoolapp.sg/project/ahmad-ibrahim-primary-school-ar-science-wall) for project images.
+
 ### Key Learning Themes:
 - Sustainability
 - Waste management
